@@ -2,7 +2,8 @@
 
 Iphone Calculator Clone
 
-with working funtions
+Build using HTML, CSS, JavaScript
+with working funtions for calculation
 
 Live Time(clock) Update
 
