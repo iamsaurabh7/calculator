@@ -2,6 +2,8 @@
 
 Iphone Calculator Clone
 
+https://sage-pony-e4d669.netlify.app/
+
 Build using HTML, CSS, JavaScript
 with working funtions for calculation
 
