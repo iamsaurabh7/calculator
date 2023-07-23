@@ -6,20 +6,24 @@
 }
 
 body {
-  display: flex;
-  margin: 25px;
   font-family: Arial, Helvetica, sans-serif;
 }
-
+h1{
+ color: teal;
+ text-align: center;
+ font-size: xxx-large;
+}
 .claculator {
-  margin: 50px 50px;
+
   background-color: black;
   width: 563px;
-  height: 1210px;
+  /* height: 1210px; */
   padding: 20px;
   border-radius: 50px;
   color: white;
   position: relative;
+  margin: auto;
+  margin-top: 2%;
 }
 
 .top-container {
